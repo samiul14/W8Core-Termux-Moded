@@ -1,7 +1,7 @@
 # SamiulCore-Termux-Moded — Modular Dev Environment
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samiul14/SamiulCore-Termux-Moded/main/assets/images/logo.svg" alt="SamiulCore-Termux-Moded Logo" width="600">
+  <img src="https://raw.githubusercontent.com/samiul14/W8Core-Termux-Moded/main/assets/images/logo.svg" alt="SamiulCore-Termux-Moded Logo" width="600">
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded">
     <img src="https://img.shields.io/badge/version-4.8.2-0078D4?style=for-the-badge&logo=appveyor" alt="Version">
   </a>
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded/blob/main/LICENSE">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-0078D4?style=for-the-badge&logo=bookstack" alt="License">
   </a>
   <a href="https://termux.dev/">
@@ -21,17 +21,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded/stargazers">
-    <img src="https://img.shields.io/github/stars/samiul14/SamiulCore-Termux-Moded?style=for-the-badge&logo=github&color=f5c542" alt="Stars">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded/stargazers">
+    <img src="https://img.shields.io/github/stars/samiul14/W8Core-Termux-Moded?style=for-the-badge&logo=github&color=f5c542" alt="Stars">
   </a>
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded/network/members">
-    <img src="https://img.shields.io/github/forks/samiul14/SamiulCore-Termux-Moded?style=for-the-badge&logo=github&color=94a3b8" alt="Forks">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded/network/members">
+    <img src="https://img.shields.io/github/forks/samiul14/W8Core-Termux-Moded?style=for-the-badge&logo=github&color=94a3b8" alt="Forks">
   </a>
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded/issues">
-    <img src="https://img.shields.io/github/issues/samiul14/SamiulCore-Termux-Moded?style=for-the-badge&logo=github&color=ef4444" alt="Issues">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded/issues">
+    <img src="https://img.shields.io/github/issues/samiul14/W8Core-Termux-Moded?style=for-the-badge&logo=github&color=ef4444" alt="Issues">
   </a>
-  <a href="https://github.com/samiul14/SamiulCore-Termux-Moded/pulls">
-    <img src="https://img.shields.io/github/issues-pr/samiul14/SamiulCore-Termux-Moded?style=for-the-badge&logo=github&color=22c55e" alt="Pull Requests">
+  <a href="https://github.com/samiul14/W8Core-Termux-Moded/pulls">
+    <img src="https://img.shields.io/github/issues-pr/samiul14/W8Core-Termux-Moded?style=for-the-badge&logo=github&color=22c55e" alt="Pull Requests">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 ## Quick Installation
 
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/samiul14/SamiulCore-Termux-Moded/main/install.sh?$(date +%s)" | bash
+curl -fsSL "https://raw.githubusercontent.com/samiul14/W8Core-Termux-Moded/main/install.sh?$(date +%s)" | bash
 ```
 
 Then run:
@@ -121,9 +121,9 @@ core install ai --opencode --claude-code --kilocode-cli
 
 | Agent | Flag | Description |
 |-------|------|-------------|
-| [**Claude Code**](https://github.com/samiul14/SamiulCore-Termux-Moded/tree/main/core/tools/ai/claude-code) | `--claude-code` | Anthropic's CLI tool with Claude AI |
-| [**Kilo Code CLI**](https://github.com/samiul14/SamiulCore-Termux-Moded/tree/main/core/tools/ai/kilocode-cli) | `--kilocode-cli` | The open source coding agent for building with AI in VS Code, JetBrains, or the CLI |
-| [**OpenCode**](https://github.com/samiul14/SamiulCore-Termux-Moded/tree/main/core/tools/ai/opencode) | `--opencode` | Open-source agent that helps you write code in your terminal |
+| [**Claude Code**](https://github.com/samiul14/W8Core-Termux-Moded/tree/main/core/tools/ai/claude-code) | `--claude-code` | Anthropic's CLI tool with Claude AI |
+| [**Kilo Code CLI**](https://github.com/samiul14/W8Core-Termux-Moded/tree/main/core/tools/ai/kilocode-cli) | `--kilocode-cli` | The open source coding agent for building with AI in VS Code, JetBrains, or the CLI |
+| [**OpenCode**](https://github.com/samiul14/W8Core-Termux-Moded/tree/main/core/tools/ai/opencode) | `--opencode` | Open-source agent that helps you write code in your terminal |
 
 ---
 
