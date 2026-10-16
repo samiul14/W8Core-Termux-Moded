@@ -2,6 +2,8 @@
 
 set -e
 
+# Fork by Samiul Islam — original W8Core-Termux-Moded by W8SOJIB (W8Team)
+
 readonly P_BORDER='\e[38;5;33m'
 readonly P_PRIMARY='\e[38;5;39m'
 readonly P_DIM='\e[38;5;244m'
@@ -10,7 +12,7 @@ readonly P_FAIL='\e[1;31m'
 readonly P_HL='\e[38;5;213m'
 readonly P_NC='\e[0m'
 
-REPO="https://github.com/W8SOJIB/W8Core-Termux-Moded"
+REPO="https://github.com/samiul14/W8Core-Termux-Moded"
 BRANCH="main"
 CORE_DATA="${XDG_DATA_HOME:-$HOME/.local/share}/core-termux"
 CORE_TOOL_DATA="${XDG_DATA_HOME:-$HOME/.local/share}/core-termux-data"
@@ -73,7 +75,7 @@ separator() {
 banner() {
   echo
   echo -e "  ${P_BORDER}┌────────────────────────────────────┐${P_NC}"
-  echo -e "  ${P_BORDER}│${P_NC}        ${P_PRIMARY}  ◈ W8CORE-TERMUX-MODED ◈${P_NC}           ${P_BORDER}│${P_NC}"
+  echo -e "  ${P_BORDER}│${P_NC}    ${P_PRIMARY}  ◈ SAMIULCORE-TERMUX-MODED ◈${P_NC}     ${P_BORDER}│${P_NC}"
   echo -e "  ${P_BORDER}│${P_NC} ${P_DIM}Modular Dev Environment for Termux${P_NC} ${P_BORDER}│${P_NC}"
   echo -e "  ${P_BORDER}└────────────────────────────────────┘${P_NC}"
   echo
